@@ -1,0 +1,5 @@
+Efecto mariposa
+
+Según el efecto mariposa, dadas unas circunstancias peculiares del tiempo y condiciones iniciales de un determinado sistema dinámico caótico (más concretamente con dependencia sensitiva a las condiciones iniciales) cualquier pequeña discrepancia entre dos situaciones con una variación pequeña en los datos iniciales, cabe resaltar que sin duda alguna y sin explicación científica, acabará dando lugar a situaciones donde ambos sistemas evolucionan en ciertos aspectos de forma completamente diferente. Eso implica que si en un sistema se produce una pequeña perturbación inicial, mediante un proceso de amplificación, podrá generar un efecto considerablemente grande a corto o medio plazo. Es un concepto de la teoría del caos.
+
+En el ejemplo particular propuesto por Edward Norton Lorenz, por el efecto mariposa, si se parte de dos mundos o situaciones globales casi idénticos, pero en uno de ellos hay una mariposa aleteando y en el otro no, a largo plazo, el mundo con la mariposa y el mundo sin la mariposa acabarán siendo muy diferentes. En uno de ellos puede producirse a gran distancia un tornado y en el otro no suceder en absoluto.
